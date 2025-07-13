@@ -1,4 +1,4 @@
-# 10Minute-School---Student-Performance-and-Data-Analysis-Dashboards
+# 10Minute-School-Student-Performance-and-Data-Analysis-Dashboards
 📊 10Minute School - Student Performance and Data Analysis Dashboards
 This Power BI project presents a comprehensive data analysis of student performance on the 10 Minute School platform. The goal was to uncover patterns in student engagement, academic trends, and rank movement through interactive and insight-driven dashboards. The project highlights the effectiveness of data-driven strategies for improving educational outcomes.
 
